@@ -1,1 +1,1 @@
-## End to End Machine Learning Project
+## End to Data Science Project
